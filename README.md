@@ -1,4 +1,4 @@
-# Customer-Analysis-Descriptive using Tableau
+# Customer-Analysis-Descriptive Using Tableau
 Task To Do
 1.Revenue per state
 2.Revenue based on month of the year
